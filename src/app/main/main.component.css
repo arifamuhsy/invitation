@@ -1,0 +1,27 @@
+h1{
+    color: white;
+}
+
+.container-fluid{
+    background-image: url('/../../assets/img/ayakaxaether.png');
+    /* background-color: black, 0.5; */
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nama-pasangan{
+    font-family: "Italiana", Sans-serif;
+    font-size: 7rem;
+}
+
+.dear{
+    font-family: "Pacifico", Sans-serif;
+    font-size: 3rem;
+}
+
+.undangan{
+    font-family: "Italiana", Sans-serif;
+    font-size: 3.5rem;
+}
